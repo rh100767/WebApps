@@ -1,7 +1,6 @@
 # WebApps collection
  
 Current Apps:
-<br>
 1. Customer Maintenance Program
 
 <br>
