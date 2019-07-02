@@ -2,6 +2,6 @@
 
 In order to login:
 <br>
-username:testuser
+username: testuser
 <br>
-password:testuser1
+password: testuser1
